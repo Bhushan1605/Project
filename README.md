@@ -1,2 +1,2 @@
 # Project
-I want to create a simple project for practice.
+I have created a simple project for practice.
